@@ -1,2 +1,2 @@
-# trusted-catholic
-:journal: Reliable news about Catholicism.
+# Trusted Catholic 
+:scroll: Reliable news about Catholicism.
